@@ -3,3 +3,4 @@ def soma(a, b):
 print("Hello world!")
 print("Testando Merge")
 print("A soma é: ", soma(2,2))
+print("Testando Merge")
